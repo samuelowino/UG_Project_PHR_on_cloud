@@ -1,0 +1,2 @@
+update table set attr="" where attr=2;
+delete from;

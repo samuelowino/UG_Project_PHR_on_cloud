@@ -1,0 +1,3 @@
+   
+          
+         if your Mysql password is not admin, change password in graph.jsp file.
